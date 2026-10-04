@@ -103,6 +103,10 @@ The ad **Retinal Celimax | Video 2 | Dark Spot Care** achieved the highest link 
 
 The ad **Retinal Celimax | Video 3 | Skincare Coreano** achieved the highest add-to-cart rate, at approximately 10.2%, but with a lower traffic volume and no recorded purchases.
 
+<p align="center">
+  <img src="./images/ad_purchases.png" width="700">
+</p>
+
 ---
 
 ## Recommendations
