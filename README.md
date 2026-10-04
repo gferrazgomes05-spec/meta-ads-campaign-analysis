@@ -77,6 +77,10 @@ The **45–54 age group** generated the highest number of purchases, accounting 
 
 The **55–64** and **65+** groups showed relatively high CTRs, although this engagement did not translate proportionally into purchases.
 
+<p align="center">
+  <img src="./images/age_purchases.png" width="700">
+</p>
+
 ---
 
 ### Ad Performance
